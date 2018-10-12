@@ -16,7 +16,6 @@ def add_element_to_start_of_array(array, element)
   best_nba_players = ["Lebron James", "Kevin Durant"]
   element = "Kwahi Leonard"
   best_nba_players.unshift(element)
-  
 end
 
 def remove_element_from_end_of_array(array)
